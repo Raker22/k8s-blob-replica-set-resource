@@ -1,0 +1,8 @@
+apiVersion: raker22.com/v1alpha1
+kind: BlobReplicaSet
+metadata:
+  name: example-blob-replica-set
+spec:
+  message: hello world
+  someValue: 42
+  replicas: 3

@@ -1,0 +1,4 @@
+pkg/client/*
+
+.idea/
+.DS_Store
